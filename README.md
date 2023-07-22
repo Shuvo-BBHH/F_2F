@@ -9,7 +9,7 @@ For on facebook 2F in text all id
 - `pkg install python`
 
 # MAIN CAMMANDS
-- `rm -rf Mathod_Capture`
+- `rm -rf F_2F`
 - `pip install mahdix`
 - `git clone https://github.com/Shuvo-BBHH/F_2F`
 - `cd F_2F`
